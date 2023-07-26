@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.cesium.unity": {
-      "version": "file:/Users/yuki/Downloads/com.cesium.unity-1.4.0.tgz",
+      "version": "file:../Assets/com.cesium.unity-1.4.0.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

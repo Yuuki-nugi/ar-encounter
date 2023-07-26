@@ -73,3 +73,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Build file
+Assets/com.cesium.unity-1.4.0.tgz
+Assets/com.cesium.unity-1.4.0.tgz.meta
